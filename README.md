@@ -74,8 +74,3 @@ Test the regular HTTP REST api at:
 
     /backend                               --> Backend source files
     /frontend                              --> Frontend sources files
-
-
-## Contact
-
-For more information please contact kmturley
